@@ -83,6 +83,14 @@ case 1: staged changes
         git reset filename
         git reset
 
-case 2: commited changes 
+case 2: commited changes (for one commit)
 
         git reset HEAD~1
+
+case 3: commited change (for many commits)
+
+        git reset <commite-hash>
+
+commit hash example -> git log -> check hash(abf45b11ae9c9f61d38a5b7a5e66d3260327389c) 
+
+        git reset --hard <commit-hash>
