@@ -53,3 +53,7 @@ STEP 4: Delete any branch
 STEP 5: Push Any other branch 
 
         git push origin branchname
+
+STEP 6: Marging any Brach into main branch or master branch 
+
+        git marge branch oppositebranchname
