@@ -30,4 +30,4 @@ STEP 5 :
     git push origin main
 </P>
 
-<h6>Change Only in Feature 1</h6>
+<h3>Change Only in Feature 1</h3>
