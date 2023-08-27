@@ -29,3 +29,19 @@ STEP 5 :
 
     git push origin main
 </P>
+
+
+
+<h1> BRANCH GITHUB  STEPS</h1>
+
+STEP 1: Check Which Branch you Work on 
+
+        git branch
+
+STEP 2: create new branch 
+
+        git checkout -b brachname
+
+STEP 3: move to other branch 
+
+        git checkout branchname
