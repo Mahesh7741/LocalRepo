@@ -45,3 +45,7 @@ STEP 2: create new branch
 STEP 3: move to other branch 
 
         git checkout branchname
+
+STEP 4: Delete any branch 
+
+        git branch -d brachname
