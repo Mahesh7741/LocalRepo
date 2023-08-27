@@ -1,4 +1,4 @@
-HTML AND CSS CODE INTO GITHUB
+GIT COMMANDS 
 <BR>MAHESH SAVANT
 
 <P>
@@ -17,7 +17,7 @@ STEP 2 :
 
 STEP 3 : 
 
-git add .
+        git add .
 
 STEP 4 : 
 
