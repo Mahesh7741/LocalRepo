@@ -66,6 +66,6 @@ STEP 6: Marging any Brach into main branch or master branch
 ====> remote change --> Local Changes <br>
 ====> by using <span style="color:"green" ">PULL  COMMAND </span> <br>
 
-        git pull origin main
+        git pull origin filename
 
 </p>
