@@ -13,7 +13,7 @@ STEP 1 : first create file go into file by using main line or --- command
 
 STEP 2 :
 
-CHECK STATUS => git status
+ git status
 
 STEP 3 : 
 
