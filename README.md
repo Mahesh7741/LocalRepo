@@ -58,7 +58,9 @@ STEP 6: Marging any Brach into main branch or master branch
 
         git marge branch oppositebranchname
 
+<p>
 ---------- other Method is PR (Pull Request)----------
 ====> this method in Github app only.
 ====>  Pull requset to main branch holder.
 ====> holder reviwes the Code Than marge its .
+</p>
