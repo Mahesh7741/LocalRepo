@@ -69,3 +69,19 @@ STEP 6: Marging any Brach into main branch or master branch
         git pull origin filename
 
 </p>
+
+---------------------------------------------------<br>
+<h1> how check commit </h1>
+
+        git log 
+
+<br>---------- <h1> Undoing Changes </h1>
+
+case 1: staged changes
+
+        git reset filename
+        git reset
+
+case 2: commited changes 
+
+        git reset HEAD~1
