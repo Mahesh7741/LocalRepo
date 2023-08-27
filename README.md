@@ -63,4 +63,9 @@ STEP 6: Marging any Brach into main branch or master branch
 ====> this method in Github app only.<br>
 ====>  Pull requset to main branch holder.<br>
 ====> holder reviwes the Code Than marge its .<br>
+====> remote change --> Local Changes <br>
+====> by using <span style="color:"green" ">PULL  COMMAND </span> <br>
+
+        git pull origin main
+
 </p>
