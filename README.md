@@ -48,4 +48,8 @@ STEP 3: move to other branch
 
 STEP 4: Delete any branch 
 
-        git branch -d brachname
+        git branch -d branchname
+
+STEP 5: Push Any other branch 
+
+        git push origin branchname
