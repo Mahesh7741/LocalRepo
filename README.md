@@ -75,7 +75,8 @@ STEP 6: Marging any Brach into main branch or master branch
 
         git log 
 
-<br>---------- <h1> Undoing Changes </h1>
+<br>---------------------------------------------------
+<h1> Undoing Changes </h1>
 
 case 1: staged changes
 
